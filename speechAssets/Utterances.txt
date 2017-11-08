@@ -1,0 +1,2 @@
+ReplyToSalamIntent Salam
+ReplyToSalamIntent say Assalamalekum

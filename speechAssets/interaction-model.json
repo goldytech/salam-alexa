@@ -1,0 +1,24 @@
+{
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",  
+        "samples": []  
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "ReplyToSalamIntent",
+        "samples": [
+            "Assalamalekum",
+            "Assalamalekum Wa RahamatUllah Wa Barkatahu"
+        ],
+        "slots": []
+      }
+    ]
+  }
