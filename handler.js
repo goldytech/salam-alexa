@@ -1,6 +1,7 @@
 import Alexa from 'alexa-sdk'
 export const replytoSalam = (event, context, callback) => {
   const alexa = Alexa.handler(event, context)
+  alexa.appId = 'amzn1.ask.skill.01b222ea-fb1c-44b1-a3d1-333badf2ca2c'
   alexa.registerHandlers(handlers)
   alexa.execute()
 }

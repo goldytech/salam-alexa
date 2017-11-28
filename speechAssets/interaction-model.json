@@ -16,7 +16,8 @@
         "name": "ReplyToSalamIntent",
         "samples": [
             "Assalamalekum",
-            "Assalamalekum Wa RahamatUllah Wa Barkatahu"
+            "Assalamalekum Wa RahamatUllah Wa Barkatahu",
+            "salam"
         ],
         "slots": []
       }
